@@ -7,3 +7,5 @@ edited by web editor
 다시 충돌
 
 conflict again
+
+서로 다른 위치에 추가하기
