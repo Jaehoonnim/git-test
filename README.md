@@ -12,3 +12,5 @@ Merge후 Master 수정
 Fork 후 수정
 
 PR 해야지
+
+# 2020.10.04
